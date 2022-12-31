@@ -50,7 +50,7 @@
     "@vercel/fetch": "^6.1.1",
     "cookie": "^0.4.1",
     "immutability-helper": "^3.1.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash.debounce": "^4.0.8",
     "uuidv4": "^6.2.12"
   },
